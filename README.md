@@ -46,7 +46,7 @@ python guess_number.py
 4. After each guess, the system gives feedback:<br>
    📉 “Too Low” → Try a higher number<br>
    📈 “Too High” → Try a lower number<br>
-5. The game continues until:
+5. The game continues until:<br>
    ✅ The correct number is guessed<br>
    ❌ Attempts run out<br>
    
