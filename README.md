@@ -7,13 +7,13 @@ A command-line based Python game where the computer randomly selects a number an
 ---------------------
 1. 🎲 Random number generation using Python’s built-in random library
 2. 🎚️ Multiple difficulty levels:
- a) Easy → More attempts
- b) Medium → Balanced attempts
- c) Hard → Fewer attempts
+ a) Easy → More attempts<br>
+ b) Medium → Balanced attempts<br>
+ c) Hard → Fewer attempts<br>
 3. ⏳ Limited number of attempts for each level
 4. 📉 Smart feedback system:
-   a) Too High
-   b) Too Low
+   a) Too High<br>
+   b) Too Low<br>
 5. 🧠 Logic-based gameplay (user improves guessing strategy)
 
 ------------------------
