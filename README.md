@@ -25,13 +25,13 @@ A command-line based Python game where the computer randomly selects a number an
 ------------------------
 ▶️ How to Run
 ------------------------
-1) Clone the repository:
+1) Clone the repository:<br>
 git clone https://github.com/Khushi-git-ds/mini-project.git
 
-2) Navigate to the project folder:
+2) Navigate to the project folder:<br>
 cd mini-project
 
-3) Run the game:
+3) Run the game:<br>
 python guess_number.py
 
 --------------------------
