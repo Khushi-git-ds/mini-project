@@ -38,17 +38,17 @@ python guess_number.py
 🎮 How the Game Works
 --------------------------
 1. The system randomly generates a number within a given range.
-2. The user selects a difficulty level:
-   Easy → High attempts
-   Medium → Moderate attempts
-   Hard → Low attempts
+2. The user selects a difficulty level:<br>
+   Easy → High attempts<br>
+   Medium → Moderate attempts<br>
+   Hard → Low attempts<br>
 3. The player enters a guess.
-4. After each guess, the system gives feedback:
-   📉 “Too Low” → Try a higher number
-   📈 “Too High” → Try a lower number
+4. After each guess, the system gives feedback:<br>
+   📉 “Too Low” → Try a higher number<br>
+   📈 “Too High” → Try a lower number<br>
 5. The game continues until:
-   ✅ The correct number is guessed
-   ❌ Attempts run out
+   ✅ The correct number is guessed<br>
+   ❌ Attempts run out<br>
    
 --------------------------
 🧠 Concepts Used
